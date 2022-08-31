@@ -1,0 +1,51 @@
+{
+  "name": "vue-project",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@fawmi/vue-google-maps": "^0.9.79",
+    "apexcharts": "^3.30.0",
+    "axios": "^0.27.2",
+    "bootstrap": "^4.0.0",
+    "bootstrap-vue": "^2.21.2",
+    "datatables.net": "^1.11.3",
+    "datatables.net-bs4": "^1.11.3",
+    "datatables.net-responsive": "^2.2.9",
+    "esm": "^3.2.25",
+    "google-maps-api-loader": "^1.1.1",
+    "laravel-vue-datatable": "^0.6.0",
+    "leaflet": "^1.7.1",
+    "leaflet-geosearch": "^3.6.0",
+    "moment": "^2.29.1",
+    "offcanvas-bootstrap": "^2.5.2",
+    "sweetalert2": "^11.1.9",
+    "vue": "^3.2.37",
+    "vue-apexcharts": "^1.6.2",
+    "vue-multiselect": "^2.1.6",
+    "vue-progressbar": "^0.7.5",
+    "vue-router": "^4.1.2",
+    "vue-simple-alert": "^1.1.1",
+    "vue2-leaflet": "^2.7.1",
+    "vue2-leaflet-geosearch": "^1.0.6",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "@vitejs/plugin-vue-jsx": "^2.0.0",
+    "cross-env": "^7.0",
+    "jquery": "^3.2",
+    "lodash": "^4.17.13",
+    "popper.js": "^1.12",
+    "resolve-url-loader": "^2.3.1",
+    "sass": "^1.43.3",
+    "sass-loader": "^8.0.0",
+    "vite": "^3.0.1",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
